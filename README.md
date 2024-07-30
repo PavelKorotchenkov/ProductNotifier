@@ -1,1 +1,1 @@
-This is a test project for Apache kafka.
+This is a pet project for studying Apache kafka.
