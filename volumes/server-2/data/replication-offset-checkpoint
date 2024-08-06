@@ -5,7 +5,7 @@ __consumer_offsets 6 0
 __consumer_offsets 35 0
 __consumer_offsets 18 0
 __consumer_offsets 32 0
-__consumer_offsets 26 8
+__consumer_offsets 26 11
 product-created-events-topic 2 4
 __consumer_offsets 41 0
 __consumer_offsets 49 0
